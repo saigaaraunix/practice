@@ -1,0 +1,14 @@
+Linux
+Shell script
+Maven
+Sonarqube
+Sonatype Nexus
+Tomcat
+wildfly
+Jenkins
+Docker
+Dockerswarm
+Ansible
+Kuberneties
+Github
+
